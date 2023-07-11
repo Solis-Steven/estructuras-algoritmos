@@ -1,0 +1,9 @@
+¿Cómo se guarda la información en la memoria?
+
+La memoria está conformada por memory slots los cuales son espacios
+donde se van a guardar ciertos datos. En un memory slot podemos almacenar
+un byte. La información se guarda de forma aleatoria y nosotros
+no sabemos dónde se está guardando, la computadora lo sabe por las
+direccinoes que se generan
+
+
